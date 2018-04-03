@@ -1,21 +1,22 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/xxxxxxxcode/-C.code-.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Chinwe, and I enjoy meeting new people and finding ways to help them have an uplifting experience. I have had a variety of programming opportunities, through which I am able to create and develop applications. I am dedicated, outgoing, and a team player. Who spaeks in seminars and instructs in workshops. I love seeing people smile and also  putting their efforts and skills to good use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Highlight of my background:
 
-### Markdown
+Web design
+Mobile application development
+Team collaboration
+Travelling
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 She is
-# Outgoing
-## Loves programming
+
+### Outgoing
+### Loves programming
 ### playful
 
 
-or more details see [myBlog](https://codepen.io/C-code/pen/LeXWoM/).
+Moredetails see [myBlog](https://codepen.io/C-code/pen/LeXWoM/).
 
 ### Jekyll Themes
 
@@ -23,4 +24,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+contact me [Linkedin](https://www.linkedin.com/in/chinwe-angel-29535196)
