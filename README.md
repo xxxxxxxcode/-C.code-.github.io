@@ -9,24 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+She is
+# Outgoing
+## Loves programming
+### playful
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-myBlog(https://codepen.io/C-code/pen/LeXWoM/)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+or more details see [myBlog](https://codepen.io/C-code/pen/LeXWoM/).
 
 ### Jekyll Themes
 
