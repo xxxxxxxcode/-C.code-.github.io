@@ -18,7 +18,7 @@ She is
 More details see [myBlog](https://codepen.io/C-code/pen/LeXWoM/).
 
 ### Jekyll Themes
-This page is basically created to promote [Jeklly themes](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
+This page is basically created to promote [Jekyll themes](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
 
 ### Support or Contact
 
