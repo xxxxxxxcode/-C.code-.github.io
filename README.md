@@ -22,7 +22,7 @@ THis page is basically created to promote [Jeklly themes](https://help.github.co
 
 ### Support or Contact
 
-contact me [Linkedin](https://www.linkedin.com/in/chinwe-angel-29535196)
+contact me [Linkedin](https://www.linkedin.com/in/chinwe-angel-29535196) [Or]
             [Instagram](https://www.instagram.com/resin.love/)
 
 
